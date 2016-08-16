@@ -1,0 +1,38 @@
+# Directories #
+**/build/
+**/bin/
+**/target/
+
+# OS Files #
+.DS_Store
+ 
+**/*.class
+ 
+# Package Files #
+**/*.jar
+**/*.war
+**/*.ear
+
+ 
+######################
+# Windows
+######################
+ 
+# Windows image file caches
+Thumbs.db 
+ 
+# Folder config file
+Desktop.ini
+
+######################
+# Eclipse
+#####################
+ 
+**/.settings
+**/target
+# **/.classpath
+**/.metadata
+# **/.project
+**/.factorypath
+**/*.prefs
+**/.settings/
