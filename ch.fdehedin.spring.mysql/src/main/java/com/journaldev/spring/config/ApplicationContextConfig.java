@@ -29,6 +29,7 @@ public class ApplicationContextConfig {
 	private static final String dbUsername = "fdn";
 	private static final String dbPassword = "fdn+2016";
 
+	
 	@Bean(name = "viewResolver")
 	public InternalResourceViewResolver getViewResolver() {
 		System.out.println("inside view resolver");

@@ -29,6 +29,5 @@ public class PersonControllerTest {
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
-	}
-
+	} 
 }
